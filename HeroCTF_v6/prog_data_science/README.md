@@ -1,5 +1,5 @@
 # 🏆 **CTF Challenge Write-Up: Data Science**
-<div align="right"><img src="https://github.com/user-attachments/assets/6de983de-e96f-4462-85d7-f56d5817496d"/></div>
+<div align="right"><img src="https://github.com/user-attachments/assets/8c9bf907-1281-4e95-84d6-44ef0213a426" width="300px" height="300px"/></div>
 
 ## 📋 Challenge Information 
 
