@@ -1,5 +1,5 @@
 # 🏆 **CTF Challenge Write-Up: Subliminal#2**
-<div align="right"><img src="https://github.com/user-attachments/assets/8c1f1bcf-74e6-43fe-b364-b94353c1b039"/></div>
+<div align="right"><img src="https://github.com/user-attachments/assets/8c1f1bcf-74e6-43fe-b364-b94353c1b039" width="200px" height="200px"/><img src="https://github.com/user-attachments/assets/8c9bf907-1281-4e95-84d6-44ef0213a426" width="200px" height="200px"/></div>
 
 ## 📋 Challenge Information 
 
